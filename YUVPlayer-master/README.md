@@ -1,3 +1,6 @@
+## 版本说明
+本版本是在原作者版本基础上增加了10bit YUV视频播放功能，感谢原作者李迟共享代码。
+
 # YUV Player -- A YUV player based on MFC
 ## Project
 VS2010 MFC project, ref YUV Player Deluxe.
@@ -113,7 +116,12 @@ VS2010 MFC工程，界面参考YUV Player Deluxe风格。
 * 添加YUV分量分离功能。
 * 多种YUV格式相互转换功能。
 
+
 ## 作者
+Wang JL 
+https://blog.csdn.net/lin453701006
+
+## 原作者
 思堂工作室 李迟<br>
 [迟思堂工作室](http://www.latelee.org) <br>
 [欢迎捐赠支持作者](http://www.latelee.org/donate)
